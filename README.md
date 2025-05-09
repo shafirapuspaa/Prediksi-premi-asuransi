@@ -9,7 +9,7 @@ Proyek ini bertujuan untuk memprediksi **biaya premi asuransi (`charges`)** berd
 - Mengoptimalkan strategi underwriting dan pricing
 
 ### Key Objectives:
-
+👉 [Lihat SHAP Force Plot interaktif](shap_force_plot_10.html)
 
 - **Objektif 1:** Memprediksi biaya premi dengan berbagai model regresi  
 - **Objektif 2:** Mengevaluasi performa masing-masing model untuk memilih yang terbaik
